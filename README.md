@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there I'm Aparajita! 👋 🥰
+Welcome to my Github account!
 
+- 🔭 I’m currently working on using Spotify Data to predict Mental State
+- 🌱 I’m currently learning Typescript
+- 📫 How to reach me: arana3@stevens.edu
+- ⚡ Fun fact: I can count to 10 in 5 languages (not coding languages ofc)
 <!--
 **arana23/arana23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
