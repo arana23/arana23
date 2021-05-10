@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 # a look into my work! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <a href="https://github.com/arana23/github-readme-stats">
@@ -21,3 +20,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arana23&layout=compact&theme=dracula&bg_color=344341&text_color=EAD1CC&icon_color=BE9271" />
 </a>
+-->
